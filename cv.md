@@ -5,7 +5,7 @@
 # Contacts
 + Email: nikitamiron249@gmail.com
 + Telegram: @Martinideal
-+ GitHub: [https://github.com/MartinIdeal]
++ GitHub: [https://github.com/MartinIdeal][MartinIdeal]
 *****
 # About Me
 I have good interpersonal skills, I'm an excellent team worker and very willing to learn and develop new skills.
