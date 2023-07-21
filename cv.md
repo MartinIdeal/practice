@@ -17,20 +17,19 @@ I'm reliable and dependable and often seek new responsibilities within a wide ra
 + Git
 *****
 # Code Example
-'''
-public class Project8 {
-    public static void main(String[] args) {
-        int[][] a = new int[3][5];
-        for (int i = 0; i < a.length; i++) {
-            for (int j = 0; j < a[i].length; j++) {
-                a[i][j] = (int) (Math.random() * 10);
-                System.out.print(a[i][j] + " ");
+    public class Project8 {
+        public static void main(String[] args) {
+            int[][] a = new int[3][5];
+            
+            for (int i = 0; i < a.length; i++) {
+                for (int j = 0; j < a[i].length; j++) {
+                    a[i][j] = (int) (Math.random() * 10);
+                    System.out.print(a[i][j] + " ");
+                }
+                System.out.println();
             }
-            System.out.println();
         }
     }
-}
-'''
 *****
 # Experience
 Now I have no work experience, but in the future it will definitely be
