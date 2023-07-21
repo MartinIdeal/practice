@@ -32,7 +32,7 @@ I'm reliable and dependable and often seek new responsibilities within a wide ra
     }
 *****
 # Experience
-Now I have no work experience, but in the future it will definitely be
+Now I have no work experience, but in the future it will definitely be.
 *****
 # Education
 Vitebsk State Technological University
