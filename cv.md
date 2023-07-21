@@ -17,7 +17,6 @@ I'm reliable and dependable and often seek new responsibilities within a wide ra
 + Git
 *****
 # Code Example
-'''
     public class Project8 {
         public static void main(String[] args) {
             int[][] a = new int[3][5];
@@ -31,7 +30,6 @@ I'm reliable and dependable and often seek new responsibilities within a wide ra
             }
         }
     }
-'''
 *****
 # Experience
 Now I have no work experience, but in the future it will definitely be
