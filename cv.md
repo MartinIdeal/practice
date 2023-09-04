@@ -3,7 +3,7 @@
 + Age: 18
 *****
 # Contacts
-+ Email: nikitamiron249@gmail.com
++ Email: myemail@gmail.com
 + Telegram: @Martinideal
 + GitHub: [MartinIdeal](https://github.com/MartinIdeal)
 *****
